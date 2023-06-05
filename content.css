@@ -1,0 +1,8 @@
+.content {
+background-color: #2E0249;
+height: 1024px;
+width: 1440px;
+border-radius: 24px;
+display: flex;
+column-gap: 50px;
+}
